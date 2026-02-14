@@ -27,7 +27,7 @@ class Buffer:
         self.data = []
         return buf
 
-
+        
 class Spectrogram:
     """
     Compute spectrogram of a 1D signal using STFT.
